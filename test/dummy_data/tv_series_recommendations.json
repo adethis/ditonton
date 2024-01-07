@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/path.jpg",
+      "id": 1,
+      "name": "Name",
+      "original_language": "en",
+      "original_name": "Original Name",
+      "overview": "overview",
+      "poster_path": "/path.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        1
+      ],
+      "popularity": 1.0,
+      "first_air_date": "2022-11-02",
+      "vote_average": 1.0,
+      "vote_count": 1,
+      "origin_country": [
+        "en"
+      ]
+    }
+  ],
+  "total_pages": 2,
+  "total_results": 40
+}

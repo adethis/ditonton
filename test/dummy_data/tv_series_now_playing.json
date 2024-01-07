@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/path.jpg",
+      "genre_ids": [
+        10763
+      ],
+      "id": 1,
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Original Name",
+      "overview": "Overview",
+      "popularity": 1.0,
+      "poster_path": "/path.jpg",
+      "first_air_date": "1952-12-26",
+      "name": "Name",
+      "vote_average": 1.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 11,
+  "total_results": 204
+}

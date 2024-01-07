@@ -1,0 +1,29 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+      "genre_ids": [
+        10759,
+        35,
+        16
+      ],
+      "id": 37854,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ワンピース",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous One Piece behind. Whoever claims the One Piece will be named the new King of the Pirates.Monkey D. Luffy, a boy who consumed a Devil Fruit, decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.Luffy will do anything to get the One Piece and become King of the Pirates!",
+      "popularity": 534.839,
+      "poster_path": "/e3NBGiAifW9Xt8xD5tpARskjccO.jpg",
+      "first_air_date": "1999-10-20",
+      "name": "One Piece",
+      "vote_average": 8.727,
+      "vote_count": 4219
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 5
+}
