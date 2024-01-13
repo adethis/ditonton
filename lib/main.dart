@@ -5,6 +5,7 @@ import 'package:core/styles/text_styles.dart';
 import 'package:core/utils/http_ssl_pinning.dart';
 import 'package:core/utils/utils.dart';
 import 'package:ditonton/injection.dart' as di;
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -42,6 +43,7 @@ import 'package:tv_series/presentation/pages/tv_series_page.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await HttpSSLPinning.init();
+  await Firebase.initializeApp();
   di.init();
   runApp(const MyApp());
 }

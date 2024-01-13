@@ -57,10 +57,7 @@ class _SeasonDetailPageState extends State<SeasonDetailPage> {
               return ListView.builder(
                 itemBuilder: (context, index) {
                   final episode = state.result.episodes?[index];
-                  return EpisodeCard(
-                    episode: episode!,
-                    posterPath: state.result.posterPath!,
-                  );
+                  return EpisodeCard(episode: episode!);
                 },
                 itemCount: state.result.episodes!.length,
               );

@@ -1,4 +1,5 @@
-[![Codemagic build status](https://api.codemagic.io/apps/659aae3aca834b4197811c82/659aaf65030264017f5246d3/status_badge.svg)](https://codemagic.io/apps/659aae3aca834b4197811c82/659aaf65030264017f5246d3/latest_build)
+[![Codemagic build status](https://api.codemagic.io/apps/659aae3aca834b4197811c82/659aae3aca834b4197811c81/status_badge.svg)](https://codemagic.io/apps/659aae3aca834b4197811c82/659aae3aca834b4197811c81/latest_build)
+
 # ditonton
 
 Ditonton Apps

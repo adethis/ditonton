@@ -26,7 +26,8 @@ class SeasonDetailModel extends Equatable {
   factory SeasonDetailModel.fromJson(Map<String, dynamic> json) =>
       SeasonDetailModel(
         id: json["id"],
-        airDate: DateTime.parse(json["air_date"]),
+        airDate:
+            json["air_date"] != null ? DateTime.parse(json["air_date"]) : null,
         episodes: json["episodes"] != null
             ? List<EpisodeModel>.from(
                 json["episodes"].map((x) => EpisodeModel.fromJson(x)))

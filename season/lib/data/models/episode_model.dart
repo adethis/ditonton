@@ -37,7 +37,8 @@ class EpisodeModel extends Equatable {
   final List<dynamic> guestStars;
 
   factory EpisodeModel.fromJson(Map<String, dynamic> json) => EpisodeModel(
-        airDate: DateTime.parse(json["air_date"]),
+        airDate:
+            json["air_date"] != null ? DateTime.parse(json["air_date"]) : null,
         episodeNumber: json["episode_number"],
         episodeType: json["episode_type"],
         id: json["id"],
