@@ -1,0 +1,43 @@
+{
+  "_id": "1",
+  "air_date": "2023-06-05",
+  "episodes": [
+    {
+      "air_date": "2023-06-05",
+      "episode_number": 1,
+      "episode_type": "standard",
+      "id": 4624162,
+      "name": "Episode 1",
+      "overview": "Rian comes to Gaby’s rescue, Andrea is not telling the truth, and Delia has news about Danny. Annelize is amazed by an article, Nicolette meets a lawyer, and Tertius opens up toward Louis. Diego agrees to a trade-off, and Jeremy and Henry have an appointment.",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 19,
+      "show_id": 206559,
+      "still_path": null,
+      "vote_average": 9.0,
+      "vote_count": 1,
+      "crew": [],
+      "guest_stars": [
+        {
+          "character": "Danny Jantjies",
+          "credit_id": "64cb914b4fd14100e9680df6",
+          "order": 501,
+          "adult": false,
+          "gender": 2,
+          "id": 1484805,
+          "known_for_department": "Acting",
+          "name": "Bradley Olivier",
+          "original_name": "Bradley Olivier",
+          "popularity": 1.96,
+          "profile_path": "/wUCUEVOqe3QyFLmmHcWjcQ9NJth.jpg"
+        }
+      ]
+    }
+  ],
+  "name": "Season 19",
+  "overview": "",
+  "id": 1,
+  "poster_path": "/omwys5OcmSQCJwS02uOGcqBAQ4m.jpg",
+  "season_number": 19,
+  "vote_average": 9.1
+}

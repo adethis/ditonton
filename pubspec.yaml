@@ -46,6 +46,17 @@ dependencies:
   flutter_bloc: ^8.1.3
   rxdart: ^0.27.7
 
+  about:
+    path: about
+  core:
+    path: core
+  movie:
+    path: movie
+  tv_series:
+    path: tv_series
+  season:
+    path: season
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -75,6 +86,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/
+    - certificates/
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 

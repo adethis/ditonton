@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "1952-12-26",
+  "genres": [],
+  "homepage": "https://www.tagesschau.de/",
+  "id": 1,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2023-12-26",
+  "last_episode_to_air": null,
+  "name": "Tagesschau",
+  "next_episode_to_air": null,
+  "networks": null,
+  "number_of_episodes": 20839,
+  "number_of_seasons": 72,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Tagesschau",
+  "overview": "German daily news program, the oldest still existing program on German television.",
+  "popularity": 3557.862,
+  "poster_path": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+  "production_companies": [
+    {
+      "id": 7201,
+      "logo_path": "/ljV8ZT3CIYCEIEDlTyBliXJVCZr.png",
+      "name": "NDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1251,
+      "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+      "name": "ARD",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1952-12-26",
+      "episode_count": 6,
+      "id": 134441,
+      "name": "Season 1952",
+      "overview": "",
+      "poster_path": "/lEOhLYxSlqYcAlSSunb0fbXkKM5.jpg",
+      "season_number": 1,
+      "vote_average": 3.5
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 6.898,
+  "vote_count": 191
+}
