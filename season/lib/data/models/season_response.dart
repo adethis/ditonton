@@ -7,8 +7,9 @@ class SeasonResponse extends Equatable {
   const SeasonResponse({required this.seasonList});
 
   factory SeasonResponse.fromJson(Map<String, dynamic> json) => SeasonResponse(
-        seasonList: List<SeasonModel>.from(
-            (json["seasons"] as List).map((x) => SeasonModel.fromJson(x))),
+        seasonList: List<SeasonModel>.from((json["seasons"] as List)
+            .map((x) => SeasonModel.fromJson(x))
+            .where((element) => element.posterPath != null)),
       );
 
   Map<String, dynamic> toJson() =>
